@@ -24,6 +24,13 @@ jobs:
   # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
+
+    runs:
+  using: 'node20'
+  pre: 'setup.js'
+  main: 'index.js'
+  post: 'cleanup.js'
+  
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
