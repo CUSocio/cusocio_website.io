@@ -1,69 +1,69 @@
 ---
 # Display name
-title: 吳健雄
+title: Colter J. Uscola
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ' '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Colter
+last_name: Uscola
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ' '
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student of Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://sociology.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+Bio: I am a second-year PhD student in the Department of Sociology at UBC-Vancouver. I work under the supervision of Dr. Seth Abrutyn. <br> My research interests revolve around mental health and identity transformations across the life course. Driven by a desire to counter the experiences that contribute to the onset of pathological alcohol/substance use, my intellectual passions fall within five broad areas. 1) social psychology; 2) mental health and health; 3) sociological theory; 4) worldviews, culture and social networks; and 5) computational social science. Specifically, I seek to reveal how and why status, identity, and emotions interact within cultures and along social networks to produce mental health outcomes that precipitate substance/alcohol misuse. <br> I recently employed qualitative methods (e.g. semi-structured interviews and focus groups) aimed at outlining the etiology of alcohol use disorders by focusing on emotion, identity, and status dynamics (click here for link to publication). In the coming years, I will continue to hone both my qualitative and quantitative skills, focused on developing mixed-methods studies, especially those related to compuational methods, as I move through the PhD. I wholly intend to shift my work from a specific focus on substance misuse toward a more general focus on cultural elements, such as worldviews, that foster or mitigate social pain. From this, I hope to contribute to a deeper understanding of how social pain forms, and how it can be assuaged, and outline potential policy interventions, both at the local and macro realms of society.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Interests:
+  - Mental Health and Well-being
+  - Identity Processes
+  - Computational Methods
 
 # Education to show in About widget
-education:
+Education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Sociology
+      institution: University of British Columbia
+      year: 2022
+    - course: BA in Sociology (Minor in Statistics)
+      institution: West Virginia University
+      year: 2020
+    # - course: BSc in Artificial Intelligence
+      # institution: Massachusetts Institute of Technology
+      # year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
+Skills:
+  - name: Methodological
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: NVivo
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Stata
         description: ''
-        percent: 40
+        # percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -72,19 +72,19 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Camping
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        # percent: 100
+        icon: tents-solid
+        icon_pack: ' '
+      - name: Reading Fantasy
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        # percent: 80
+        icon: dragon-solid
+        icon_pack: ' '
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +93,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'c.uscola@ubc.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/c_uscola
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=t-t5q1gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/CUSocio
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/colter-uscola-4474b1249/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://docs.google.com/document/d/1USo8wruBJpAM0IaD7JBwdgP4jzww2gQM/edit?usp=sharing&ouid=117117416823450368540&rtpof=true&sd=true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#Colter J. Uscola is a PhD student at the University of British Columbia, Vancouver. His award-winning research focuses on processes of identity formation and mental health and is published in Society and Mental Health. 
 {style="text-align: justify;"}
