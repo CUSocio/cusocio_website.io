@@ -1,13 +1,7 @@
-module github.com/HugoBlox/theme-academic-cv
-
-module my-website
+module github.com/HugoBlox/hugo-blox-builder/test
 
 go 1.15
 
-require (
-  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms main
-  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify main
-    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal main
-  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 main
-)
+require github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind main
 
+replace github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind => ../modules/blox-tailwind
